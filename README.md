@@ -2,15 +2,31 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ![](https://komarev.com/ghpvc/?username=herbert0419&color=green)
 =======================================================================================================================================
 
-Data Science Enthusiast
+📊🔬 **Data Dreamweaver | Machine Learning Maestro | Society's Problem Solver** 🔬📊
 -----------------------
+Welcome to my data-driven realm! 🌌 As a fervent explorer of the digital cosmos for the past 5 years, I've woven my coding spells into elegant solutions that not only speak the language of algorithms but also resonate with the heartbeat of society. 🚀
 
-I have been learning coding for 5 years. I have been working in this domain for last 3 years, the favorite part of this Industry is data & I love to play with data. My most of the work is related to Machine Learning use cases that contribute to the society & solves the society problem. I am a learning & teaching kind of person, love to teach my juniors or fellow mate about the things I know & learn.
+✨ **About Me:**
+With 3 years of industry enchantment under my belt, I have been wielding the power of data to conjure machine learning marvels that illuminate the path towards a better world. My true passion lies in transforming raw data into meaningful insights that dance to the rhythm of societal needs. 🌍
 
-* 🌍  I'm based in Kolkata, West Bengal
-* ✉️  You can contact me at [devshobhan4@gmail.com](mailto:devshobhan4@gmail.com)
-* 🧠  I'm learning Django & Neural Network Architecture indepth
-* ⚡  Cricket is my secret crush, I'll love to have a date
+🛠️ **Favorite Tools:**
+Armed with Python spells and libraries like scikit-learn, TensorFlow, and pandas, I've summoned models that predict, classify, and even breathe life into the most intricate data tapestries. My wand of choice is Jupyter Notebook, where ideas transform into code, and code evolves into solutions.
+
+🌟 **Passion Projects:**
+My journey is etched with projects that are more than mere lines of code. They're sparks of innovation designed to ignite positive change. From predicting health outcomes to optimizing urban transport, my models are the unsung heroes addressing real-world challenges. 🌈
+
+📚 **Eternal Scholar:**
+Learning is the tapestry I weave daily. I thrive on the excitement of tackling new concepts, algorithms, and techniques. But it doesn't end with me—I find immense joy in lighting the paths of fellow learners and watching them blossom into confident data explorers.
+
+🎓 **Teaching Sage:**
+Guiding, mentoring, and kindling the curiosity of my juniors and peers is a profound pleasure. My joy amplifies when I see them unlocking doors to data realms they never thought possible. Together, we're forging a community of eager minds.
+
+💡 **Innovation Catalyst:**
+The world of data science is an ever-evolving canvas. I'm not just here to solve problems; I'm here to redefine them. Constantly pushing the boundaries of what's possible, I believe that data has the power to reshape the destiny of societies.
+
+Join me in unraveling the magic of data and watch as we turn ones and zeros into meaningful change. Let's chart a course to a future where data isn't just a resource; it's the key to a brighter tomorrow. 🌠
+
+Connect with me and let's cast spells with data together! 🌐🔮
 
 <a href="https://www.github.com/herbert0419" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/herbert0419?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a><a href="https://www.twitter.com/ShobhandebP" target="_blank" rel="noreferrer"><img
