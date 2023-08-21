@@ -83,6 +83,10 @@ src="https://img.shields.io/twitter/follow/ShobhandebP?logo=twitter&style=for-th
         </td>
         <td align="center" width="140" height="112.43">
             <img src="./assets/icons/docker.png" width="65px"/>
+            <br /> Docker
+        </td>
+     <td align="center" width="140" height="112.43">
+            <img src="./assets/icons/flask.png" width="65px"/>
             <br /> Flask
         </td>
     </tr>
