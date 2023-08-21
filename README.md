@@ -99,4 +99,6 @@ src="https://img.shields.io/twitter/follow/ShobhandebP?logo=twitter&style=for-th
 
 <div width="100%" align="center"><a href="https://github.com/herbert0419/Exploratory-Data-Analysis" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=herbert0419&repo=Exploratory-Data-Analysis&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/herbert0419/Polestar-.data-Fiesta-" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=herbert0419&repo=Polestar-.data-Fiesta-&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a></div>
 
-Thanks for visiting my profile!
+---
+
+***Thanks for visiting my profile.***
