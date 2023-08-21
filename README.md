@@ -101,4 +101,7 @@ src="https://img.shields.io/twitter/follow/ShobhandebP?logo=twitter&style=for-th
 
 ---
 <br /><br /><br /><br /><br />
-***Thanks for visiting my profile.***
+<div>
+    <p>***Thanks for visiting my profile.***</p>
+</div>
+
