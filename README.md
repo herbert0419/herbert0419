@@ -12,7 +12,7 @@ I'm a data scientist with 3 years of experience and a passion for using data to 
 🌟 **Projects:**
 Explore my work on various data science projects that address social needs.
 
-📚 **Skillsr:**
+📚 **Skills:**
 See my experience with Python libraries and tools commonly used in data science.
 
 🎓 **Mentoring:**
