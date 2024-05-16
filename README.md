@@ -1,11 +1,6 @@
 ### Hi there, I'm Shobhandeb Paul👋
 ![](https://komarev.com/ghpvc/?username=herbert0419&color=green)
 =======================================================================================================================================
-
-📊🔬 **Machine Learning | Deep Learning |** 🔬📊
------------------------
-Welcome to my data-driven realm! 🌌 As a fervent explorer of the digital cosmos for the past 5 years, I've woven my coding spells into elegant solutions that not only speak the language of algorithms but also resonate with the heartbeat of society. 🚀
-
 ✨ **About Me:**
 I'm a data scientist with 3 years of experience and a passion for using data to make a positive impact. I've built machine learning models using Python libraries like scikit-learn and TensorFlow to tackle real-world problems in areas like healthcare and insurance. I'm a continuous learner who enjoys sharing knowledge and helping others explore the world of data science.
 
